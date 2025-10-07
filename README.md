@@ -4,8 +4,6 @@
 
 This repository contains the lab work for the Numerical Methods and Approximations course. It includes implementations of various numerical techniques and algorithms, along with sample problems and solutions.
 
-Features
-
 # Root Finding Methods:
 
 Bisection Method
